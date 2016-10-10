@@ -1,0 +1,114 @@
+﻿div {
+	border-radius: 6px;
+	background: #2db34a;
+	text-align: center;
+	font: 24px/14px Verdana;
+	color: #fff;
+	padding: 24px 15px;
+}
+
+header,
+footer,
+aside,
+article {
+	margin: 0 1.5% 24px 1.5%;
+}
+
+header {
+	margin-bottom: 1.0%
+}
+
+.nav {
+	display: block;
+	width: 620px;
+	
+	margin: 0 auto 1.0% auto;
+	
+}
+
+.nav a {
+	display: inline-block;
+	text-decoration: none;
+	font: bold 20px Arial;
+	color: #666;
+	text-align: center;
+	
+	padding: 5px 10px 1.0% 1.5%;
+}
+
+article {
+	float: left;
+	width: 63%;
+}
+
+.field {
+	font: 12px Verdana;
+	line-height: 20px;
+	text-align: justify;
+	color: black;
+	background: #f2f2f2;
+	padding: 15px 15px;
+}
+
+aside {
+	float: right;
+	width: 30%;
+}
+
+.sidebar {
+	background: none;
+	font: 16px "Courier New";
+	margin: 0px 25px 0 5px;
+	color: black;
+	text-align: left;
+}
+
+.sidebar p {
+	margin-top: 40px;
+}
+
+footer {
+	clear: both;
+	
+}
+
+footer p {
+	font-size: 14px;
+	}
+
+img {
+	width: 50%;
+	margin: 5px 15px 5px 0;
+	float: left;
+}
+
+ul {
+	list-style: none;
+	text-align: right;
+	margin-bottom: 40px;
+}
+
+ul li a {
+	font: bold 16px Arial;
+	text-decoration: none;
+	color: black;
+	
+}
+
+.btn {
+    display: block;
+	border-radius: 5px;
+	background: #f44336;
+	color: #fff;
+	width: 25%;
+	margin: 40px auto 40px auto;
+	text-align: center;
+	padding: 15px 15px;	
+	text-decoration: none;
+	font: 14px Arial;
+}
+
+.btn:hover {
+	background: #ff6666;
+}
+
